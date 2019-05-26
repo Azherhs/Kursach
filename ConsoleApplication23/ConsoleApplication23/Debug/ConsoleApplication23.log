@@ -1,0 +1,4 @@
+﻿  ConsoleApplication23.cpp
+c:\users\avgus\source\repos\consoleapplication23\consoleapplication23\bignumbers.h(19): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\avgus\source\repos\consoleapplication23\consoleapplication23\bignumbers.h(32): warning C4018: <: несоответствие типов со знаком и без знака
+  ConsoleApplication23.vcxproj -> C:\Users\avgus\source\repos\ConsoleApplication23\Debug\Kursach.exe
